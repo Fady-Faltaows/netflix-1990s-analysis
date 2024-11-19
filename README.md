@@ -24,9 +24,9 @@ The dataset `netflix_data.csv` includes:
 3. Install dependencies.
 4. Run the Jupyter Notebook.
 
-##Results
+## Results
 The analysis shows that there were X short action movies from the 1990s. Detailed insights are provided in the notebook.
 
-##Future Work
+## Future Work
 - Analyze trends for other genres and decades.
 - Deep dive into popular directors and cast.
